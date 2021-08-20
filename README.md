@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuvaraja 👋
 ## I'm a Student, and a Developer!!!
 
-- 🔭 Currently working on Nothing
+- 🔭 Currently working on Coding BOT's
 - 🌱 Currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun Fact: I Have a Verified Bot on Discord
@@ -15,6 +15,7 @@
 ### Languages I Know:
 - 🐍 Python
 - 💻 HTML/CSS
+- Learning `Rust`
 ---
 
 <details>
