@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Yuvaraja 👋
+## I'm a Student, and a Developer!!!
 
-<!--
-**Yuvaraja28/Yuvaraja28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on Nothing
+- 🌱 Currently learning Web Development
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun Fact: I Have a Verified Bot on Discord
+- 😼 Expert in Automating Works
+- 🐕 I Like Dogs
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://discord.c99.nl/widget/theme-4/759050921413312532.png)
+
+### Languages I Know:
+- 🐍 Python
+- 💻 HTML/CSS
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Yuvaraja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaraja28&show_icons=true&hide_border=true&theme=react&count_private=true" />
