@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuvaraja 👋
 ## I'm a Student, and a Developer!!!
 
-- 🔭 Focused on Coding BOT's
+- 🔭 Focused on Making Automated Things
 - 🌱 Currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun Fact: I Have a Verified Bot on Discord
