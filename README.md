@@ -8,10 +8,14 @@
 - 😼 Expert in Automating Works
 - 🐕 I Like Dogs
 
-### Connect with me:
-
-![](https://discord.c99.nl/widget/theme-4/759050921413312532.png)
-
+<hr>
+<div>
+  <h3 align="center">Connect with me<br></h3>
+  <p align="center">
+  <a href="http://discord.com/"><img alt="Python" src="https://discord.c99.nl/widget/theme-4/759050921413312532.png"></a>
+</p>
+  <hr>
+  </div>
 <div>
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
@@ -32,6 +36,15 @@
 </p>
   </div><hr>
   <div>
+  <h3 align="center">Tools I use</h3>
+  <p align="center">
+    <a href="https://github.com/" target="_blank"><img alt="Git Hub" src="https://img.shields.io/badge/Git%20Hub-000000?style=for-the-badge&logo=github"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img alt="VsCode" src="https://img.shields.io/badge/VsCode-005571?style=for-the-badge&logo=visualstudiocode"></a>
+    <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701" target="_blank"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal"></a>
+    <a href="https://brave.com/" target="_blank"><img alt="Browser" src="https://img.shields.io/badge/Browser-ffffff?style=for-the-badge&logo=brave"></a>
+  </p>
+  </div><hr>
+  <div>
   <h3 align="center">Databases languages I used</h3>
   <p align="center">
     <a href="https://mysql.org" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -40,8 +53,9 @@
     <a href="https://sqlite.org" target="_blank"><img alt="SQLite3" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
     <a href="https://redis.io" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%2307405e.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
   </p>
-  </div>
+  </div><hr>
   
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Yuvaraja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaraja28&show_icons=true&hide_border=true&theme=react&count_private=true" />
+  <p align="center">
+    <img align="centre" alt="Yuvaraja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaraja28&show_icons=true&hide_border=true&theme=react&count_private=true" />
