@@ -58,4 +58,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img align="centre" alt="Yuvaraja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaraja28&show_icons=true&hide_border=true&theme=react&count_private=true" />
+    <img align="centre" alt="Yuvaraja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yuvaraja28&show_icons=true&hide_border=true&theme=react&count_private=true" /></pr></details>
+    
