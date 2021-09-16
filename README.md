@@ -40,7 +40,7 @@
   <p align="center">
     <a href="https://github.com/" target="_blank"><img alt="Git Hub" src="https://img.shields.io/badge/Git%20Hub-000000?style=for-the-badge&logo=github"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img alt="VsCode" src="https://img.shields.io/badge/VsCode-005571?style=for-the-badge&logo=visualstudiocode"></a>
-    <a href="hhttps://docs.microsoft.com/en-us/windows/wsl/" target="_blank"><img alt="https://img.shields.io/badge/WSL-ffffff?style=for-the-badge&logo=windows"></a>
+    <a href="hhttps://docs.microsoft.com/en-us/windows/wsl/" target="_blank"><img alt="WSL" src="https://img.shields.io/badge/WSL-ffffff?style=for-the-badge&logo=windows"></a>
     <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701" target="_blank"><img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal"></a>
     <a href="https://brave.com/" target="_blank"><img alt="Browser" src="https://img.shields.io/badge/Browser-ffffff?style=for-the-badge&logo=brave"></a>
   </p>
