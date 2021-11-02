@@ -56,9 +56,9 @@
   </p>
   </div><hr>
  <div>
-  <h3 align="center">Trophies i Earned in GitHub</h3>
+  <h3 align="center">🏆 GitHub Profile Trophy</h3>
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvaraja28" alt="Yuvaraja28" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvaraja28&theme=discord&row=2&column=3" alt="Yuvaraja28" /></a>
   </p>
 </div><hr>
   
