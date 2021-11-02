@@ -55,6 +55,12 @@
     <a href="https://redis.io" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%2307405e.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
   </p>
   </div><hr>
+ <div>
+  <h3 align="center">Trophies i Earned in GitHub</h3>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvaraja28" alt="Yuvaraja28" /></a>
+  </p>
+</div><hr>
   
 <details>
   <summary>:zap: GitHub Stats</summary>
