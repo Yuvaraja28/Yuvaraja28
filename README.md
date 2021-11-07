@@ -10,6 +10,10 @@
 
 <hr>
 <div>
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Yuvaraja28">
+  </p>
+
   <h3 align="center">Connect with me<br></h3>
   <p align="center">
   <a href="https://discord.com/users/759050921413312532"><img alt="Python" src="https://discord.c99.nl/widget/theme-4/759050921413312532.png"></a>
