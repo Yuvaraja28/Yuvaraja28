@@ -1,6 +1,16 @@
 ### Hi there, I'm Yuvaraja 👋
 ## I'm a Student, and a Developer!!!
 
+<div align="right">
+  <a href="Yuvaraja" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/ea1bf798e9124c24bfe87cf941c5decb.png?r=mlv"
+    />
+  </a>
+</div>
+
 - 🔭 Focused on Making Automated ...
 - 🌱 Currently learning Web Development
 - 👯 I’m looking to collaborate with other content creators
