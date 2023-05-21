@@ -12,7 +12,7 @@
 </div>
 
 - 🔭 Focused on Making Innovative and Creative Projects
-- 🌱 Currently learning Web Development
+- 🌱 Currently working on Web Apps
 - 👯 I’m looking to collaborate with other Developers and content creators
 - ⚡ Fun Fact: I Have a Verified Bot on Discord
 - 😼 Expert in Automating Works
