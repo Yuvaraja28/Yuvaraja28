@@ -7,7 +7,7 @@ class Yuvaraja {
     this.name = "Yuvaraja";
     this.fullName = "Yuvaraja Murali";
     this.role = "Full Stack Developer";
-    this.portfolio = "https:/yuv.1he.dev";
+    this.portfolio = "https://yuv.1he.dev";
     this.email = "yuv.the.dev@gmail.com";
     this.location = "India";
   }
