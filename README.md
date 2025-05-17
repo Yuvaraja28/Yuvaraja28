@@ -28,17 +28,17 @@ class Yuvaraja {
 
   experience() {
     return {
-      company: "Devley",
+      company: "Devley • Freelance",
       role: "Founder & CEO",
       duration: "February 2021 - Present",
-      link: "https://devley.yuvaraja.tech",
+      link: "https://devley.1he.dev",
       location: "India",
       details: [
-        "Running and maintaining Devley: A software development company, committed to delivering innovative IT solutions.",
-        "Conceptualized, designed, built, and launched the entire website.",
-        "Developed all the products available in the marketplace.",
-        "Leading a premier software development company: Focusing on Discord-based customers.",
-        "Handling all customer support tickets: Ensuring exceptional service and satisfaction."
+        "Operated and managed Devley, a freelance software development service dedicated to providing innovative IT solutions.",
+        "Independently conceptualized, designed, built, and launched the entire Devley website.",
+        "Developed all products available in the Devley marketplace.",
+        "Specializing in serving Discord-based clients with tailored software solutions.",
+        "Personally handled all customer support tickets, ensuring exceptional service and client satisfaction."
       ]
     };
   }
