@@ -3,9 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-A guy walks into a bar and asks for 1.4 root beers.
-The bartender says "I'll have to charge you extra, that's a root beer float".
-The guy says "In that case, better make it a double."
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 ```
 
 ## 🙂 About Me
@@ -59,4 +57,4 @@ class Yuvaraja {
 ![Yuvaraja's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraja28&theme=holi&border_radius=12&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)margin-w=10&margin-h=10)
+![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)margin-w=10&margin-h=10)sername=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)margin-w=10&margin-h=10)
