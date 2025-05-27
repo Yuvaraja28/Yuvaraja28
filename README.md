@@ -1,4 +1,10 @@
-### Hi there, I'm Yuvaraja 👋
+# Hi there, I'm Yuvaraja 👋
+
+### 😂 Dev Joke of the Day
+
+```js
+I have a joke about Stack Overflow, but you would say it's a duplicate.
+```
 
 ## 🙂 About Me
 ```js
@@ -51,4 +57,4 @@ class Yuvaraja {
 ![Yuvaraja's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraja28&theme=holi&border_radius=12&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)
+![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)
