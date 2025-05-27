@@ -3,7 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+Debugging: Removing the needles from the haystack.
 ```
 
 ## 🙂 About Me
@@ -57,4 +57,7 @@ class Yuvaraja {
 ![Yuvaraja's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraja28&theme=holi&border_radius=12&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)0&margin-h=10)l.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)pp/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)margin-w=10&margin-h=10)sername=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)ub&margin-w=10&margin-h=10)margin-w=10&margin-h=10)
+![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)
+
+## 🏆 GitHub Trophies
+![Yuvaraja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yuvaraja28&theme=darkhub&margin-w=10&margin-h=10)
