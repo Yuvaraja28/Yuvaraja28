@@ -3,9 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+Your mama's so FAT she can't save files bigger than 4GB.
 ```
 
 ## 🙂 About Me
