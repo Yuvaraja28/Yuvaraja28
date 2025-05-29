@@ -3,7 +3,10 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Your mama's so FAT she can't save files bigger than 4GB.
+A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off."
 ```
 
 ## 🙂 About Me
