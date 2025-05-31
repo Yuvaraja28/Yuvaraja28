@@ -3,8 +3,10 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 ```
 
 ## 🙂 About Me
