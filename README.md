@@ -3,10 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double."
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 ```
 
 ## 🙂 About Me
