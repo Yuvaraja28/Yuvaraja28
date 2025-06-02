@@ -3,7 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Algorithm: A word used by programmers when they don't want to explain how their code works.
 ```
 
 ## 🙂 About Me
