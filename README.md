@@ -3,9 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-"Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 ```
 
 ## 🙂 About Me
