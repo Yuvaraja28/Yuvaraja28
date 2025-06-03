@@ -3,7 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Algorithm: A word used by programmers when they don't want to explain how their code works.
+"Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 ```
 
 ## 🙂 About Me
