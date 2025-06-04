@@ -3,7 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 ```
 
 ## 🙂 About Me
