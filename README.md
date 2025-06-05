@@ -3,11 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the API go to school?
-
-It wanted to learn better methods.
-
-To return more thoughtful responses.
+Why did the new programming language
+Decide to become a minimalist?
+It said, "Less syntax, more zen."
 ```
 
 ## 🙂 About Me
