@@ -3,7 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the API start a band? Because it wanted to provide a *seamless* musical experience, but was mostly just good at *connecting* different instruments.
+Here's a joke:
+
+Why did the DNS server get glasses?
+It couldn't C# and the IP addresses all
+looked a little... domain.
 ```
 
 ## 🙂 About Me
