@@ -3,7 +3,7 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-I have a joke about Stack Overflow, but you would say it's a duplicate.
+Why did the API start a band? Because it wanted to provide a *seamless* musical experience, but was mostly just good at *connecting* different instruments.
 ```
 
 ## 🙂 About Me
