@@ -3,11 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Here's a joke:
+Why did the API go to school?
 
-Why did the DNS server get glasses?
-It couldn't C# and the IP addresses all
-looked a little... domain.
+It wanted to learn better methods.
+
+To return more thoughtful responses.
 ```
 
 ## 🙂 About Me
