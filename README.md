@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the new programming language
-Decide to become a minimalist?
-It said, "Less syntax, more zen."
+Why did the VR headset go to art school?
+It wanted to immerse itself in creativity
+And experience a wider field of view.
 ```
 
 ## 🙂 About Me
