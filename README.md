@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the VR headset go to art school?
-It wanted to immerse itself in creativity
-And experience a wider field of view.
+Why did the computer go to a therapist?
+It had too many unresolved issues.
+Kept saying it had a lot of bytes of stress.
 ```
 
 ## 🙂 About Me
