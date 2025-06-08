@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the computer go to a therapist?
-It had too many unresolved issues.
-Kept saying it had a lot of bytes of stress.
+Why did the new API wear a monocle?
+It wanted to appear sophisticated
+And return only top-shelf data.
 ```
 
 ## 🙂 About Me
