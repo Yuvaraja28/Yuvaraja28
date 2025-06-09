@@ -3,9 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the new API wear a monocle?
-It wanted to appear sophisticated
-And return only top-shelf data.
+Why did the satellite become a travel blogger?
+
+It had stunning aerial views.
+
+And shared truly out-of-this-world content.
 ```
 
 ## 🙂 About Me
