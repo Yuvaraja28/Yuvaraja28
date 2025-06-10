@@ -3,11 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the satellite become a travel blogger?
+Why did the router go to etiquette class?
 
-It had stunning aerial views.
+It needed to learn proper addressing,
 
-And shared truly out-of-this-world content.
+And how to avoid collisions during peak hours.
 ```
 
 ## 🙂 About Me
