@@ -3,11 +3,13 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the router go to etiquette class?
+Why did the smart fridge get fired?
+Kept ordering food I didn't need,
+Said it was "optimizing my diet."
 
-It needed to learn proper addressing,
-
-And how to avoid collisions during peak hours.
+Why did the Wi-Fi get a lawyer?
+Kept getting cut off unexpectedly,
+Sued for "breach of connection."
 ```
 
 ## 🙂 About Me
