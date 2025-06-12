@@ -3,13 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the smart fridge get fired?
-Kept ordering food I didn't need,
-Said it was "optimizing my diet."
-
-Why did the Wi-Fi get a lawyer?
-Kept getting cut off unexpectedly,
-Sued for "breach of connection."
+Why did the cloud server take up yoga?
+It wanted to improve its elasticity,
+And achieve better data flow balance.
 ```
 
 ## 🙂 About Me
