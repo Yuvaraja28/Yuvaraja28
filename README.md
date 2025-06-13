@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the cloud server take up yoga?
-It wanted to improve its elasticity,
-And achieve better data flow balance.
+Why did the network cable break up?
+It said the relationship had too many faults,
+And it couldn't handle the constant crosstalk.
 ```
 
 ## 🙂 About Me
