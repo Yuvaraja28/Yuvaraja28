@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the network cable break up?
-It said the relationship had too many faults,
-And it couldn't handle the constant crosstalk.
+Why did the router visit a fortune teller?
+Hoped to learn future network paths,
+And predict which packets will get lost.
 ```
 
 ## 🙂 About Me
