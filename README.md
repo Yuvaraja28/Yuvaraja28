@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the router visit a fortune teller?
-Hoped to learn future network paths,
-And predict which packets will get lost.
+Why did the GIF start a band?
+It wanted to create moving pictures,
+And really loop into your heart.
 ```
 
 ## 🙂 About Me
