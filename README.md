@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the GIF start a band?
-It wanted to create moving pictures,
-And really loop into your heart.
+Why did the hard drive start gardening?
+It wanted more space for its files,
+And to finally branch out.
 ```
 
 ## 🙂 About Me
