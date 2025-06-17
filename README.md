@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the hard drive start gardening?
-It wanted more space for its files,
-And to finally branch out.
+My smart watch is always judging me.
+Keeps telling me I need updates,
+And that my battery life is questionable.
 ```
 
 ## 🙂 About Me
