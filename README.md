@@ -3,9 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the CPU join a choir?
-It wanted to harmonize its cores,
-And improve its overall processing tone.
+Why did the database join a dating app?
+
+It wanted to explore new relations,
+
+And find someone who appreciated good schema.
 ```
 
 ## 🙂 About Me
