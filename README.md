@@ -3,11 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the database join a dating app?
-
-It wanted to explore new relations,
-
-And find someone who appreciated good schema.
+Why did the search engine get a map?
+It needed to find relevant results,
+And navigate the ever-expanding web.
 ```
 
 ## 🙂 About Me
