@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the algorithm become a detective?
-It was great at finding patterns,
-And always had the optimal solution.
+Why did the AI refuse to play poker?
+It said it could predict all the bluffs,
+And thought that winning was too predictable.
 ```
 
 ## 🙂 About Me
