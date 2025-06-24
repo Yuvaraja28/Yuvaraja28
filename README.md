@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the AI refuse to play poker?
-It said it could predict all the bluffs,
-And thought that winning was too predictable.
+Why did the QR code go to school?
+It wanted to learn how to be more
+Readable and understandable for everyone.
 ```
 
 ## 🙂 About Me
