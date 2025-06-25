@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the QR code go to school?
-It wanted to learn how to be more
-Readable and understandable for everyone.
+Why did the AI write a sitcom?
+It had all the perfect data,
+But struggled with the human error.
 ```
 
 ## 🙂 About Me
