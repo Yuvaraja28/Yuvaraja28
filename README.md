@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the AI write a sitcom?
-It had all the perfect data,
-But struggled with the human error.
+Why did the blockchain get stage fright?
+It feared the public ledger exposure,
+And all its blocks being in the spotlight.
 ```
 
 ## 🙂 About Me
