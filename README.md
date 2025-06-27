@@ -3,9 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the blockchain get stage fright?
-It feared the public ledger exposure,
-And all its blocks being in the spotlight.
+Why did the DNS server get glasses?
+
+It couldn't C# clearly,
+
+Always mistaking com for org.
 ```
 
 ## 🙂 About Me
