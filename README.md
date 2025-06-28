@@ -3,11 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the DNS server get glasses?
-
-It couldn't C# clearly,
-
-Always mistaking com for org.
+Why did the AI cross the playground?
+To get to the other slide algorithm!
+It was having trouble computing the fun.
 ```
 
 ## 🙂 About Me
