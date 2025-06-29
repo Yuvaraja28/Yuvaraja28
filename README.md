@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the AI cross the playground?
-To get to the other slide algorithm!
-It was having trouble computing the fun.
+Why did the self-driving car get lost?
+It took a shortcut suggested by Waze
+And ended up in a corn maze.
 ```
 
 ## 🙂 About Me
