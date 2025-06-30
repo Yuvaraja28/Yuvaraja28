@@ -3,9 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the self-driving car get lost?
-It took a shortcut suggested by Waze
-And ended up in a corn maze.
+Why did the JavaScript developer bring a ladder to work?
+Because they heard the company needed to raise the bar
+And they needed to reach the hoisting!
 ```
 
 ## 🙂 About Me
