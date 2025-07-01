@@ -3,9 +3,11 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the JavaScript developer bring a ladder to work?
-Because they heard the company needed to raise the bar
-And they needed to reach the hoisting!
+Why did the zero ask the one for a date?
+
+It heard they could make a perfect ten,
+
+But feared rejection, "binary hearts are complex".
 ```
 
 ## 🙂 About Me
