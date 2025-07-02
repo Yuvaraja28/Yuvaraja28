@@ -3,11 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the zero ask the one for a date?
-
-It heard they could make a perfect ten,
-
-But feared rejection, "binary hearts are complex".
+Why did the VPN go to art school?
+It wanted to learn how to draw attention
+And be a better tunnel visionary.
 ```
 
 ## 🙂 About Me
