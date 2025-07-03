@@ -3,9 +3,10 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the VPN go to art school?
-It wanted to learn how to draw attention
-And be a better tunnel visionary.
+Why did the cloud become a stand-up comedian?
+
+It had unlimited storage for jokes,
+And knew how to deliver punchlines on demand.
 ```
 
 ## 🙂 About Me
