@@ -3,10 +3,9 @@
 ### 😂 Dev Joke of the Day
 
 ```js
-Why did the CSS file break up with the HTML?
-
-Lack of structure in their relationship,
-It said "You're just all style, no substance!"
+Why did the router file for divorce?
+Irreconcilable differences in network traffic,
+It said, "I just can't connect anymore!"
 ```
 
 ## 🙂 About Me
